@@ -1,0 +1,28 @@
+F:\Pradeep Kolla\Pradeep Official\Practice\WpfSample\WpfSample\bin\Debug\WpfSample.exe.config
+F:\Pradeep Kolla\Pradeep Official\Practice\WpfSample\WpfSample\bin\Debug\WpfSample.exe
+F:\Pradeep Kolla\Pradeep Official\Practice\WpfSample\WpfSample\bin\Debug\WpfSample.pdb
+F:\Pradeep Kolla\Pradeep Official\Practice\WpfSample\WpfSample\obj\Debug\WpfSample.csprojResolveAssemblyReference.cache
+F:\Pradeep Kolla\Pradeep Official\Practice\WpfSample\WpfSample\obj\Debug\MainWindow.baml
+F:\Pradeep Kolla\Pradeep Official\Practice\WpfSample\WpfSample\obj\Debug\MainWindow.g.cs
+F:\Pradeep Kolla\Pradeep Official\Practice\WpfSample\WpfSample\obj\Debug\App.g.cs
+F:\Pradeep Kolla\Pradeep Official\Practice\WpfSample\WpfSample\obj\Debug\WpfSample_MarkupCompile.cache
+F:\Pradeep Kolla\Pradeep Official\Practice\WpfSample\WpfSample\obj\Debug\WpfSample.g.resources
+F:\Pradeep Kolla\Pradeep Official\Practice\WpfSample\WpfSample\obj\Debug\WpfSample.Properties.Resources.resources
+F:\Pradeep Kolla\Pradeep Official\Practice\WpfSample\WpfSample\obj\Debug\WpfSample.csproj.GenerateResource.Cache
+F:\Pradeep Kolla\Pradeep Official\Practice\WpfSample\WpfSample\obj\Debug\WpfSample.exe
+F:\Pradeep Kolla\Pradeep Official\Practice\WpfSample\WpfSample\obj\Debug\WpfSample.pdb
+F:\Pradeep Official\Practice\WpfSample\WpfSample\bin\Debug\WpfSample.exe.config
+F:\Pradeep Official\Practice\WpfSample\WpfSample\obj\Debug\WpfSample.exe
+F:\Pradeep Official\Practice\WpfSample\WpfSample\obj\Debug\WpfSample.pdb
+F:\Pradeep Official\Practice\WpfSample\WpfSample\obj\Debug\WpfSample.csprojResolveAssemblyReference.cache
+F:\Pradeep Official\Practice\WpfSample\WpfSample\obj\Debug\MainWindow.baml
+F:\Pradeep Official\Practice\WpfSample\WpfSample\obj\Debug\MainWindow.g.cs
+F:\Pradeep Official\Practice\WpfSample\WpfSample\obj\Debug\App.g.cs
+F:\Pradeep Official\Practice\WpfSample\WpfSample\obj\Debug\WpfSample_MarkupCompile.cache
+F:\Pradeep Official\Practice\WpfSample\WpfSample\obj\Debug\WpfSample.g.resources
+F:\Pradeep Official\Practice\WpfSample\WpfSample\obj\Debug\WpfSample.Properties.Resources.resources
+F:\Pradeep Official\Practice\WpfSample\WpfSample\obj\Debug\WpfSample.csproj.GenerateResource.Cache
+F:\Pradeep Official\Practice\WpfSample\WpfSample\bin\Debug\WpfSample.exe
+F:\Pradeep Official\Practice\WpfSample\WpfSample\bin\Debug\WpfSample.pdb
+F:\Pradeep Official\Practice\WpfSample\WpfSample\obj\Debug\ContactPage.baml
+F:\Pradeep Official\Practice\WpfSample\WpfSample\obj\Debug\ContactPage.g.cs
